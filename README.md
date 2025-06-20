@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thisen Mandiv</h1>
 <h3 align="center">A software Engineering Undergraduate From Sri lanka</h3>
 
-- 👨‍💻 All of my projects are available at [mandiv.netlify.app](mandiv.netlify.app)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
