@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisen Mandiv</h1>
-<h3 align="center">A Software Engineering Undergraduate From Sri Lanka</h3>
+<h3 align="center"> Information Technology Undergraduate From Sri Lanka</h3>
 
 - 📫 How to reach me **mandivt@gmail.com**
 
